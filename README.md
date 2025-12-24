@@ -9,7 +9,7 @@ Commands: ls, cd, cat, mkdir, mount, exit
 
 ## Background context
 
-If post a lot on X (Twitter) and if you don't follow me already, [please follow now](https://x.com/popovicu94)!
+I post a lot on X (Twitter) and if you don't follow me already, [please follow now](https://x.com/popovicu94)!
 
 Lately I've been posting a lot about Unix, Linux, ideas of kernel syscall stability, etc.
 
